@@ -9,5 +9,12 @@ namespace HRMAPI.Models
     {
         public int Id { get; set; }
         public string Name { get; set; }
+        public string address { get; set; }
+        public string address2 { get; set; }
+        public string address3 { get; set; }
+        public string address4 { get; set; }
+        public string samrat { get; set; }
+
+
     }
 }
