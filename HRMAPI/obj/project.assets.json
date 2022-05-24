@@ -8,26 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\MdRakibulIslamSamrat\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Users\\Pixamatics 01\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SAM\\HRM_Project\\HRMAPI\\HRMAPI.csproj",
+      "projectUniqueName": "D:\\Project\\HRM_Project\\HRM_Project\\HRMAPI\\HRMAPI.csproj",
       "projectName": "HRMAPI",
-      "projectPath": "D:\\SAM\\HRM_Project\\HRMAPI\\HRMAPI.csproj",
-      "packagesPath": "C:\\Users\\MdRakibulIslamSamrat\\.nuget\\packages\\",
-      "outputPath": "D:\\SAM\\HRM_Project\\HRMAPI\\obj\\",
+      "projectPath": "D:\\Project\\HRM_Project\\HRM_Project\\HRMAPI\\HRMAPI.csproj",
+      "packagesPath": "C:\\Users\\Pixamatics 01\\.nuget\\packages\\",
+      "outputPath": "D:\\Project\\HRM_Project\\HRM_Project\\HRMAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\MdRakibulIslamSamrat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Pixamatics 01\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
