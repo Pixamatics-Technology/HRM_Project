@@ -7,5 +7,7 @@ namespace HRMAPI.Models
 {
     public class emp
     {
+        public string address4 { get; set; }
+        public string samrat { get; set; }
     }
 }
